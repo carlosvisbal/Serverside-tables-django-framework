@@ -1,5 +1,5 @@
 # Django Serverside Datatable
-[[Downloads](https://github.com/carlosvisbal/Serverside-tables-django-framework)](https://github.com/carlosvisbal/Serverside-tables-django-framework)
+[Downloads]https://pypi.org/project/Serverside-tables-django-framework/
 
 
 Este es un paquete simple que le permite usar Datatable del lado del servidor en su proyecto Django
