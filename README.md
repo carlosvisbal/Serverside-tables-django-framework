@@ -16,7 +16,6 @@ pip install django-serverside-datatable-post
 ## Cómo utilizar
 
 Create a django View that inherits from  **ServerSideDatatablePostView**.
-```
 Ejemplo (backend):
 
 ```python
