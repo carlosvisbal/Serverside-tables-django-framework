@@ -16,9 +16,11 @@ pip install django-serverside-datatable-post
 ## Cómo utilizar
 
 Create a django View that inherits from  **ServerSideDatatablePostView**.
+```
 Ejemplo (backend):
 
-```python
+```
+python
 # views.py
 
 from django_serverside_datatable_post.views import ServerSideDatatablePostView
@@ -38,7 +40,8 @@ path('data/', views.ItemListView.as_view(), name='url_test'),
 
 Ejemplo (frontend):
 
-```html
+```
+html
 <!DOCTYPE html>
 <html>
 	<head>
